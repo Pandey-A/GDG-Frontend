@@ -27,6 +27,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
@@ -35,3 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # GDG-Frontend
+Frontend Design of the GDG RBU community with features like Dark and Light Mode and Scroll animations
+# Preview of The Site
+<img width="1436" alt="Screenshot 2024-09-29 at 11 43 28 PM" src="https://github.com/user-attachments/assets/b9296c4b-dc66-4165-910f-cf26f4770494">
+
