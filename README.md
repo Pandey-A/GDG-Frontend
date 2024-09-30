@@ -25,6 +25,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 
@@ -39,4 +40,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Frontend Design of the GDG RBU community with features like Dark and Light Mode and Scroll animations
 # Preview of The Site
 <img width="1436" alt="Screenshot 2024-09-29 at 11 43 28 PM" src="https://github.com/user-attachments/assets/b9296c4b-dc66-4165-910f-cf26f4770494">
+<img width="1324" alt="Screenshot 2024-09-30 at 11 20 12 AM" src="https://github.com/user-attachments/assets/7abcb735-723c-4044-a979-dde52b1bd1e6">
+
+<img width="1440" alt="Screenshot 2024-09-30 at 11 19 16 AM" src="https://github.com/user-attachments/assets/0465c90c-5b67-491e-acf1-7d5e2d386b4a">
+<img width="1438" alt="Screenshot 2024-09-30 at 11 20 38 AM" src="https://github.com/user-attachments/assets/89660499-d91c-44e9-91ee-93a5b4686cc7">
+
+
+<img width="1440" alt="Screenshot 2024-09-30 at 11 19 36 AM" src="https://github.com/user-attachments/assets/66c04339-8c95-4d95-9315-1963846ce693">
 
