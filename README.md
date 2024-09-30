@@ -2,6 +2,25 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Clone The Repository:
+
+```bash
+git clone https://github.com/Pandey-A/GDG-Frontend.git
+```
+
+Or
+
+Install NextJs Project :
+
+```bash
+npx create-next-app@latest
+```
+
+Install all the dependencies:
+
+```bash
+npm install
+```
 First, run the development server:
 
 ```bash
