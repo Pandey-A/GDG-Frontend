@@ -3,12 +3,12 @@ import React, { useRef, useState, useEffect } from 'react';
 import Image from 'next/image';
 
 const technologies = [
-    { name: 'Android', icon: 'android.svg', color: 'bg-green-500' },
-    { name: 'Flutter', icon: 'flutter.svg', color: 'bg-blue-500' },
-    { name: 'Cloud', icon: 'cloud.svg', color: 'bg-green-500' },
-    { name: 'TensorFlow', icon: 'tensor.svg', color: 'bg-red-500' },
-    { name: 'Gemini', icon: 'gemini.svg', color: 'bg-purple-500' },
-    { name: 'Firebase', icon: 'firebase.svg', color: 'bg-yellow-500' },
+    { name: 'Android', icon:'./android.svg', color: 'bg-green-500' },
+    { name: 'Flutter', icon:'./flutter.svg', color: 'bg-blue-500' },
+    { name: 'Cloud', icon:'./cloud.svg', color: 'bg-green-500' },
+    { name: 'TensorFlow', icon:'./tensor.svg', color: 'bg-red-500' },
+    { name: 'Gemini', icon:'./gemini.svg', color: 'bg-purple-500' },
+    { name: 'Firebase', icon:'./firebase.svg', color: 'bg-yellow-500' },
 ];
 
 const TechnologyCard = ({ name, icon, color }) => (
