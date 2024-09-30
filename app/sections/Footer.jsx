@@ -127,7 +127,7 @@ const Footer = () => {
       </div>
       
     </div>
-    <img src='Bottom.svg' alt='GDG Objects' width={1600} height={300.08} className='relative dark:bg-black'/>
+    <img src='Bottom.svg' alt='GDG Objects' width={1600} height={300.08} className='relative bg-gray-100 dark:bg-black'/>
     </>
   );
 };
